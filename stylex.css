@@ -1,0 +1,17 @@
+body
+{
+    background-image:  url(https://www.incomeactivator.com/images/freebg1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.My Projects
+{
+     margin: 10% auto 0;
+     color: #fff;
+     font-size: 30px;
+     text-align: left;
+}
+.span
+{
+    color: aqua;
+}
